@@ -32,7 +32,7 @@ Despues de aplicar el jailbreak se instalara automaticamente un aplicación llam
 Despues de eso se puede buscar en el sección "Search" para las modificaciones y programas que estan en todos los repositorios que has añadido.
 
 ## Tweaks
-Las modificaciones se llaman "Tweaks" y algunas populares son estas:
+Las modificaciones se llaman "Tweaks" y mis favoritas son:
 
 -[**Cylinder**](https://github.com/rweichler/cylinder) permite cambiar las animaciones del home, hay muchas diferentes animaciones y se puede mezclar hasta cuatro a la vez para tener algo muy personalizado
 
